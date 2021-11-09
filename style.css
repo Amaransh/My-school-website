@@ -4,5 +4,11 @@
 }
 body{
     text-align: center;
-    background-color: yellowgreen;
+    background-color: yellow;
+}
+.travel_mainDiv{
+    border: 1px solid lightcyan;
+}
+.travel_mainDiv img{
+    width: 100%;
 }
