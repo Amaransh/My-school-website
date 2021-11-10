@@ -12,3 +12,6 @@ body{
 .travel_mainDiv img{
     width: 100%;
 }
+.travel_mainDiv iframe{
+    width: 100%;
+}
